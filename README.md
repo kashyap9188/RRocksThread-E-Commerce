@@ -1,4 +1,11 @@
 # RRocksThread-E-Commerce
+# SetUP
+1) Download and unzip folder
+2) Open in VSCode
+3) open two terminal :- 
+ a) backend :-  npm install then npm run dev
+ b) frontend :- cd ./frontend then npm install then npm start
+4) 
 # Home
 Home-1
 ![Home Page](https://raw.githubusercontent.com/kashyap9188/RRocksThread-E-Commerce/main/ScreenShots/ScreenShots-1.jpg)
