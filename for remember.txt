@@ -1,0 +1,15 @@
+
+Email : kashyaprajodiya9188@gmail.com
+password : mongodb9188@
+
+usename : Kashyap9188/kashyap9188
+password : mongodb9188
+
+image url  : https://i.ibb.co/DRST11n/1.webp
+             https://www.wyo.in/pub/media/mf_webp/jpg/media/catalog/product/cache/718154c3aff62b1ad64160986aa81112/l/o/lord-shiva-black-t-shirt.webp
+
+Stripe Payment Testing data : https://stripe.com/docs/testing
+
+cloudinary : https://console.cloudinary.com/console/c-9574a03caf89657188e139fbaefdf8/media_library/search?q=
+
+// "proxy": "http://172.20.10.3:4000"
